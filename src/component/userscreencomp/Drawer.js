@@ -46,6 +46,11 @@ let topMenu = [
     icon: 'credit_score',
     title: 'Client Loans',
     link: '/user-loans'
+  },
+  {
+    icon: 'payments',
+    title: ' Card',
+    link: '/user-cards'
   }
 ]
 
